@@ -1,4 +1,8 @@
-[![Demo Video](https://img.youtube.com/vi/TNAu-isyy24/1.jpg)](https://youtu.be/TNAu-isyy24)
+### 📺 Watch Test Video
+
+- 🔹 [Watch on YouTube](https://youtu.be/TNAu-isyy24)
+- 🔹 [Watch on Telegram](https://t.me/solid_marketing/64)
+
 
 ---------------------------------------------------------------------------------------------------------------
 Telegram Group Copier Bot
