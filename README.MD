@@ -46,7 +46,7 @@
 
 ---
 
-## 🧠 Keywords (for search engines)
+## 🧠 Keywords
 `telegram bot`, `telegram group copier`, `telegram automation`, `group message sync`, `telegram group to group`, `real-time telegram bot`, `telegram marketing bot`
 
 ---
