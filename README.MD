@@ -1,3 +1,4 @@
+[![Demo Video](https://img.youtube.com/vi/TNAu-isyy24/0.jpg)](https://youtu.be/TNAu-isyy24)
 
 ---------------------------------------------------------------------------------------------------------------
 Telegram Group Copier Bot
