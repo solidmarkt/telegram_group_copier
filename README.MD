@@ -28,4 +28,5 @@ Telegram Group Copier Bot
 ---------------------------------------------------------------------------------------------------------------
 
 Telegram Channel: https://t.me/solid_marketing
+You can also reach us for other solutions: https://t.me/solidmarketing
 
