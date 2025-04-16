@@ -42,7 +42,7 @@
 ## 📽️ Watch Demo Videos
 
 ▶️ [YouTube Demo](https://youtu.be/TNAu-isyy24)  
-📲 [Telegram Demo](https://t.me/YOUR_CHANNEL_OR_VIDEO_LINK)
+📲 [Telegram Demo](https://t.me/solid_marketing/64)
 
 ---
 
