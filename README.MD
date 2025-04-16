@@ -33,7 +33,7 @@
 
 ## 📌 Why Choose Our Telegram Bot?
 
-- Ideal for **group management**, **mirroring communities**, or **running backup channels**
+- Ideal for **group management**, **mirroring groups**, or **running backup channels**
 - Designed for **stability**, **speed**, and **real-time performance**
 - Supported by an active dev team — **customization available**
 
