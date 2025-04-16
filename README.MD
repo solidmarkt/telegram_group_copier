@@ -6,7 +6,7 @@
 
 # 🤖 Telegram Group Copier Bot
 
-🚨 **Note:** This repo contains only partial code — the bot won't run without the full version.
+🚨 **Note:** DM US from Telegram (https://t.me/solidmarketing) if you want to buy full version of the bot. 💬
 
 ---
 
@@ -27,7 +27,7 @@
 ✅ Group-to-Group Synchronization  
 ✅ Copies Sender Name, Profile Photo, Stickers & GIFs  
 ✅ Smooth & Fast Performance  
-✅ Beginner-Friendly & Easy to Run
+✅ Easy to Run
 
 ---
 
