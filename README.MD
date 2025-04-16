@@ -1,0 +1,31 @@
+
+---------------------------------------------------------------------------------------------------------------
+** Telegram Group Copier Bot **
+---------------------------------------------------------------------------------------------------------------
+
+● The code in this repo won't run the bot; you need the full version. ❗
+
+● DM US from Telegram (https://t.me/solidmarketing) if you want to buy full version of the bot. 💬
+
+● Prices are negotiable. 👍
+
+---------------------------------------------------------------------------------------------------------------
+
+✅ Fully automatic!
+
+✅ Easy to run!
+
+✅  Real Time Message Copying!
+
+✅  Account name + Profile Photo + Stickers/GIFs copier!
+
+✅  Full Group to Group Synchronization!
+
+✅  Fast and Smooth Performance!
+
+✅ DM us for more info.
+
+---------------------------------------------------------------------------------------------------------------
+
+Telegram Channel: https://t.me/solid_marketing
+
