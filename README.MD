@@ -7,6 +7,7 @@
 # 🤖 Telegram Group Copier Bot
 
 🚨 **Note:** DM US from Telegram (https://t.me/solidmarketing) if you want to buy full version of the bot. 💬
+
 🌐 Visit our website: https://www.solidmarketing.dev
 
 ---
